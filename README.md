@@ -1,2 +1,2 @@
-# 温知文档网页模板
-http://www.wenzdoc.com
+# For my Anima
+用来记录番剧观看日期、分集感想、个人评分、追番进度
