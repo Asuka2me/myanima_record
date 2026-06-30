@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 import taskLists from 'markdown-it-task-checkbox'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "温知文档",
-  description: "温知文档,温知笔记,欢迎使用温知系列产品！",
+  title: "个人追番记录本",
+  description: "记录动漫观看时间、观后感与评分",
   markdown: {
     config: (md) => {
       md.use(taskLists)
